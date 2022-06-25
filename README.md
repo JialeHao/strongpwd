@@ -7,7 +7,7 @@
 `strongpwd.exe -l length` # length为生产的密码长度
 
 ### Linux
-`strongpwd.exe -l length` # length为生产的密码长度
+`strongpwd -l length` # length为生产的密码长度
 
 ## 2、作为库文件引入
 
