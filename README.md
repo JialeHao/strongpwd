@@ -11,4 +11,4 @@
 
 ## 2、作为库文件引入
 
-参考 `cmd/strongpwd/strongpwd.go`
+参考 [strongpwd.go](cmd/strongpwd/strongpwd.go)
